@@ -200,11 +200,11 @@ footer .footer-logo img{
 	font-weight:900;
 	letter-spacing:1px;
 }
-#section-date h6 span{ font-size:2.8rem; line-height:3.2rem;}
+#section-date h6 span{ font-size:2.6rem; line-height:3.2rem;}
 @media (max-width: 768px){	
 	#section-date h2{font-size:3.1rem; line-height:3.1rem;}
 	#section-date h2 span{display:none;}
-	#section-date h6 span{display:block;font-size:2.4rem; line-height:2.8rem;}
+	#section-date h6 span{display:block;font-size:2.2rem; line-height:2.8rem;}
 }
 @media (max-width: 500px){
 	#section-date h2{font-size:2.9rem; line-height:3.1rem;}	
